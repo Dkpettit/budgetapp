@@ -1,0 +1,26 @@
+{
+    "name":"Mary's Budget App",
+    "short_name": "Mary's Budget App",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "white",
+    "description": "A budget app",
+    "icons": [
+        {
+            "src": "icon/dollar-symbol.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icon/plus.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "icon/trash.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        }
+
+    ]
+}
